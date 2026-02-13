@@ -8,4 +8,5 @@ dependencies = [
     "docx2pdf>=0.1.8",
     "python-dotenv>=1.2.1",
     "pytz>=2025.2",
+    "tzdata>=2025.3",
 ]
